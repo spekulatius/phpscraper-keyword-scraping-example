@@ -6,6 +6,9 @@ This is an example of the library scraping keywords from the [Wikipedia article 
 
 Within PHPScraper, the library [RAKE PHP Plus](https://github.com/Donatello-za/rake-php-plus) is used. RAKE stands for "Rapid Automatic Keyword Extraction" algorithm.
 
+There is another example showing how to [analyse the keyword length distribution](https://github.com/spekulatius/phpscraper-keyword-length-distribution-example) of a web-page.
+
+
 ## Installation
 
 This example has been built on PHP 7.2.24 run on an Ubuntu-based Linux distro.
@@ -19,11 +22,13 @@ composer install
 
 If you would like to make changes you will need to fork the repository.
 
+
 ## Execution
 
 ```bash
 $ php keyword-extractor.php
 ```
+
 
 ## Result
 
@@ -136,4 +141,4 @@ Long Tail Keywords:
  - upload file upload files (16.7)
 
 
-Please note: These results might have changed by now.
+*Please note: These results might have changed by now.*

@@ -3,10 +3,11 @@
     "description": "A simple example of a keyword scraper built using PHPScraper",
     "type": "project",
     "license": "GPL-3",
+    "homepage": "https://phpscraper.de",
     "authors": [
         {
             "name": "Peter Thaleikis",
-            "email": "peter.thaleikis@gmail.com"
+            "homepage": "https://peterthaleikis.com"
         }
     ],
     "minimum-stability": "stable",
