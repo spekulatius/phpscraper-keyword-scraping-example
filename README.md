@@ -8,12 +8,16 @@ Within PHPScraper, the library [RAKE PHP Plus](https://github.com/Donatello-za/r
 
 ## Installation
 
+This example has been built on PHP 7.2.24 run on an Ubuntu-based Linux distro.
+
 To run this example you will need to clone the repository and install the dependencies:
 
 ```bash
 git clone git@github.com:spekulatius/phpscraper-keyword-scraping-example.git
 composer install
 ```
+
+If you would like to make changes you will need to fork the repository.
 
 ## Execution
 
