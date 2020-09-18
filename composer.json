@@ -1,0 +1,16 @@
+{
+    "name": "spekulatius/phpscraper-keyword-scraping-example",
+    "description": "A simple example of a keyword scraper built using PHPScraper",
+    "type": "project",
+    "license": "GPL-3",
+    "authors": [
+        {
+            "name": "Peter Thaleikis",
+            "email": "peter.thaleikis@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "spekulatius/phpscraper": "^0.4.0"
+    }
+}
