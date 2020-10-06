@@ -2,7 +2,7 @@
     "name": "spekulatius/phpscraper-keyword-scraping-example",
     "description": "A simple example of a keyword scraper built using PHPScraper",
     "type": "project",
-    "license": "GPL-3",
+    "license": "GPL-3.0-or-later",
     "homepage": "https://phpscraper.de",
     "authors": [
         {
