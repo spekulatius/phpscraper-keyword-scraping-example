@@ -6,7 +6,9 @@ This is an example of the library scraping keywords from the [Wikipedia article 
 
 Within PHPScraper, the library [RAKE PHP Plus](https://github.com/Donatello-za/rake-php-plus) is used. RAKE stands for "Rapid Automatic Keyword Extraction" algorithm.
 
-There is another example showing how to [analyze the keyword length distribution](https://github.com/spekulatius/phpscraper-keyword-length-distribution-example) of a web-page.
+There is another example showing how to [analyze the keyword length distribution](https://github.com/spekulatius/phpscraper-keyword-length-distribution-example) of a web-page and the [performance test of PHPScraper and BeautifulSoup](https://github.com/spekulatius/link-scraping-test-beautifulsoup-vs-phpscraper). 
+
+You might need to [merge your keywords](https://github.com/spekulatius/keyword-merge) after scraping.
 
 
 ## Installation
